@@ -16,7 +16,7 @@ body {
     max-width: 25%;
     height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
     flex-direction: column;
     color: white;
